@@ -1,5 +1,5 @@
-# ratelimiter
-Rate limiter in spring boot using Bucket4j implementation (API-KEY based subscription rate limiter)
+# API Rate Limiter
+API Rate limiter in spring boot using Bucket4j implementation (API-KEY based subscription rate limiter)
 
 Step 1 : Run this project using mvn command or via IDE
 
